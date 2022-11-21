@@ -1,0 +1,350 @@
+@media screen and (max-width:1919px) {
+	.calibar-dashboard-log-in .left img{width: 70%;}
+	.calibar-dashboard-log-in .right .content .logo-box a img{width: 80%;}
+	.calibar-dashboard-log-in .left{height: 87vh;}
+	.calibar-dashboard-log-in .left .title-line h2{font-size: 45px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .left-main-box{width: 16.75%;transition: all .8s ease-in-out;}
+	.mobile.calibarapqr .left-main-box{width: 5%; transition: all .8s ease-in-out;}
+	.calibarapqr .right-main-box{width: 83.2%;transition: all .8s ease-in-out;}
+	.mobile.calibarapqr .right-main-box{width: 95%;transition: all .8s ease-in-out;}
+	.mobile.calibarapqr .left-main-box .width-btn {transform: rotate(180deg);transition: all .8s ease-in-out;}
+	.calibarapqr .right-main-box .second-row ul{width: 85.9%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box span{margin-right: 1px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .day-number{font-size: 21px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .title-box h2{font-size: 18px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .title h2{font-size: 18px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box p{font-size: 15px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .day .day-events span{width: 27px; height: 27px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box div:not(:last-child){margin-right: 9px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row{flex-direction: column;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box{margin-top: 15px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box{width: 23%;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box:last-child{width: 48.2%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box, .calibarapqr .right-main-box .second-row .graph-cla-box .cla-box{height: 613px}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .chart-box{height: 440px;}
+	.calibarapqr .left-main-box .menu-box ul{margin-left: 16px;}
+}
+
+@media screen and (max-width:1599px) {
+	.calibar-dashboard-log-in .left img{width: 90%;}
+	.calibar-dashboard-log-in .right .content{width: 71.7%;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	/*.calibarapqr .right-main-box .frist-row{padding: 10px 25px;}*/
+	.mobile.calibarapqr .left-main-box{width: 6%;}
+	.calibarapqr .right-main-box .second-row ul{width: 94.9%;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 50px;}
+	.week-name{top: 168px !important;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .chart-box{padding-top: 28px ;}
+	.day .day-events span{width: 18px !important;height: 18px!important;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .day-number{font-size: 19px;}
+	.day{height: 74.7px!important;}
+	.calibarapqr .left-main-box .help-center .btn{padding: 12px 25px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row{flex-direction: column;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box{margin-top: 15px;}
+	.week-name{top: 182px !important;}	
+}
+
+@media screen and (max-width:1439px) {
+	.calibar-dashboard-log-in .left img{width: 75%;}
+	.calibar-dashboard-log-in .right .content p{font-size: 16px;}
+	.calibar-dashboard-log-in .right .content h2{font-size: 28px;}
+	.calibar-dashboard-log-in .right .content .logo-box a img{width: 70%;}
+	.calibar-dashboard-log-in .right .content .register-line p{font-size: 17px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .right-main-box .second-row ul{width: 88%;}
+	.calibarapqr .right-main-box .second-row ul li a{font-size: 16px;padding: 12px 24px;}
+	.calibarapqr .right-main-box .second-row .task-bar{margin: 35px 0px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 43px;}
+	.calibarapqr .right-main-box{width: 81.2%;}
+	.calibarapqr .left-main-box{width: 22.75%;}
+	.mobile.calibarapqr .left-main-box{width: 6%;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box h3{font-size: 22px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 40px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box p{font-size: 15px;}
+	.calibarapqr .right-main-box .frist-row .name-box h2{padding-top: 5px;}
+	.mobile.calibarapqr .right-main-box{width: 94%;}
+	.mobile.calibarapqr .left-main-box{width: 6%;}
+}
+
+@media screen and (max-width:1365px) {
+	.calibar-dashboard-log-in .left img{width: 84%;top: 67px;}
+	.calibar-dashboard-log-in .left .title-line h2{font-size: 37px;}
+	.calibar-dashboard-log-in .right .content{width: 81.7%;}
+	.calibar-dashboard-log-in .right .content p{font-size: 15px;}
+	.calibar-dashboard-log-in .right .content h2{line-height: 40px;margin-bottom: 7px;}
+	.calibar-dashboard-log-in .right .content .input-box label{font-size: 15px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	/*.calibarapqr{height: 981px;}*/
+	.calibarapqr .right-main-box .second-row ul li a{font-size: 16px;}
+	.calibarapqr .right-main-box .second-row ul{width: 97%;}
+	.calibarapqr .left-main-box .help-center .btn{padding: 10px 20px;font-size: 13px;}
+
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 23px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box h3{font-size: 20px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box{overflow: scroll;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box, .calibarapqr .right-main-box .second-row .graph-cla-box .cla-box{height: 539px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .chart-box{height: 353px;}
+}
+
+@media screen and (max-width:1279px) {
+	.calibar-dashboard-log-in .left{height: 73vh;padding: 30px 0px 30px 30px;}
+	.calibar-dashboard-log-in .right{width: 50%;padding: 50px 50px 50px 0px;}
+	.calibar-dashboard-log-in .right .content .logo-box a img{width: 65%;}
+	.calibar-dashboard-log-in .right .content .logo-box{margin-bottom: 20px;}
+	.calibar-dashboard-log-in .right .content .input-box{margin-top: 30px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 input, .calibar-dashboard-log-in .right .content .input-box .input-1 input{margin-bottom: 20px;}
+	.calibar-dashboard-log-in .right .content .common-btn a{margin-top: 20px;}
+	.calibar-dashboard-log-in .left .title-line h2{width: 100%;font-size: 32px;}
+	.calibar-dashboard-log-in .right .content h2{font-size: 24px;}
+	.calibar-dashboard-log-in .right .content p{font-size: 13px;line-height: 13px;}
+	.calibar-dashboard-log-in .right .content .input-box{margin-top: 15px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-1 .front{top: 48px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 .front,.calibar-dashboard-log-in .right .content .input-box .input-2 .hide-eye{top: 46px;}
+	.calibar-dashboard-log-in{margin-top: 50px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .left-main-box{display: none;}
+	.calibarapqr .right-main-box{width: 100%;position: relative;}
+	.calibarapqr  .mobile-nav{display: block;position: fixed;top: 38px;right: 50px;z-index: 99;}
+	.calibarapqr  .mobile-nav span{display: block;width: 30px;height: 3px;background: #02A786;margin-bottom: 4px;border-radius: 4px;}
+	.nav-small{overflow: hidden;}
+	.nav-small .calibarapqr .left-main-box{display: block;position: fixed;left: 0px;right: 0;width: 100%;overflow: hidden;z-index: 99;}
+	.nav-small .calibarapqr .left-main-box .width-btn{display: none;}
+	.nav-small .calibarapqr .left-main-box .logo-box img{width: auto;margin-top: 26px;margin-bottom: 41px;}
+	.nav-small .calibarapqr{overflow: hidden;}
+	.nav-small .calibarapqr .mobile-nav span:first-child{transform: rotate(45deg);transition: all .5s ease-in-out;position: absolute;top: 13px;}
+	.nav-small .calibarapqr .mobile-nav span:nth-child(2){opacity: 0;transition: all .5s ease-in-out;}
+	.nav-small .calibarapqr .mobile-nav span:last-child{transform: rotate(315deg);transition: all .5s ease-in-out;position: absolute;top: 13px;}
+	.calibarapqr .right-main-box .frist-row .add-box{padding-right: 30px;}
+	.calibarapqr .right-main-box .second-row ul{flex-wrap: wrap;}
+	.calibarapqr .right-main-box .second-row ul li{width: 30%;margin-bottom: 10px;}
+	.calibarapqr .right-main-box .second-row .task-bar{margin:40px 0px;flex-wrap: wrap;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box{width: 26%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row{flex-direction: row;}
+	.week-name{top: 147px !important;}
+	/*.calibarapqr .right-main-box .second-row .task-bar .product-box:not(:last-child){margin-bottom: 30px;}*/
+	.calibarapqr .right-main-box .second-row .task-bar .product-box:last-child{width: 44%;}
+	.calibarapqr .right-main-box .frist-row{flex-wrap: wrap;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box{display: block;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box, .calibarapqr .right-main-box .second-row .graph-cla-box .cla-box{width: 100%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box{width: 40%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box{margin-top: 0px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row{flex-direction: row;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box{margin-bottom: 40px;height: 513px;}
+	.day{width: 143px !important;}
+	.day .day-events span{width: 20px !important;height: 20px !important;}
+	.calibarapqr .right-main-box .second-row ul li{width: 14.2%;}
+	.calibarapqr .right-main-box .menu-bar ul li{width: 16%;text-align: center;}
+}
+@media screen and (max-width:1023px) {
+	.calibar-dashboard-log-in{display: block;margin-top: 0px;}	
+	.calibar-dashboard-log-in .left{display: block;width: 100%;margin: 0px;border-radius: 0px;background-position-y: -10px;}
+	.calibar-dashboard-log-in .left .title-line h2{font-size: 35px;}
+	.calibar-dashboard-log-in .right{width: 100%;margin: 0 auto;background-color: #ffffffd3;padding: 50px;height: auto;}
+	.calibar-dashboard-log-in .right .content{width: 100%;}
+	.calibar-dashboard-log-in .right .content .logo-box img{width: 61%;}
+	.calibar-dashboard-log-in .right .content h2{font-size: 29px;}	
+	.calibar-dashboard-log-in .right .content .register-line p{margin-top: 16px;font-size: 14px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	
+	.calibarapqr .right-main-box .frist-row{padding: 10px 50px;}
+	.calibarapqr .right-main-box .second-row{padding-top: 10px;}
+	.calibarapqr .right-main-box .second-row ul{width: 100%;margin-top: 10px;gap: 13px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box{width: 48%;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box:last-child{width: 100%;}
+	.calibarapqr .right-main-box .second-row .task-bar{gap: 26px;}
+	.calibarapqr .right-main-box .frist-row .add-box .profile-box .dropdown-menu.show{top: 10px !important;}
+	.calibarapqr .right-main-box .second-row ul li{margin: 0px !important;}
+	.calibarapqr .right-main-box .frist-row .add-box{flex-wrap: wrap;justify-content: space-between;width: 100%;align-items: baseline;margin-top: 5px;padding-right: 0px;}
+	.calibarapqr .mobile-nav{top: 22px;}
+	.calibarapqr .right-main-box .frist-row .add-box .location-box{padding:0px;border-right: 0px;}
+	.calibarapqr .left-main-box .menu-box ul li a{font-size: 13px;}
+	.calibarapqr .left-main-box .menu-box ul{padding-left: 15px;}
+	.calibarapqr .right-main-box{width: 100%;}
+	.calibarapqr .right-main-box .frist-row .add-box .icon-box{padding: 0px;border-right: 0px;}
+	.calibarapqr .right-main-box .menu-bar ul li{width: 32%;margin-bottom: 15px;}
+	.calibarapqr .right-main-box .second-row .task-bar{margin: 30px 0px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box:not(:last-child) p{margin-top: 17px;}
+	.calibarapqr .right-main-box .frist-row .add-box .location{margin-right: 7px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box{width: 76%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box{width: 54%;margin: 0 auto;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box input{padding: 9px 0px 9px 9px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row{flex-direction: row;}
+	.calibarapqr .right-main-box .second-row .week-name ul{gap :0px !important;}
+	.calibarapqr.mobile .right .cla-box .right{width: auto;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box{height: 494px;}
+}
+@media screen and (max-width:767px) {
+   	/*.calibar-dashboard-log-in{padding: 50px 0px;}*/
+   	/*.calibar-dashboard-log-in .left{height: 582px;}*/
+   	.calibar-dashboard-log-in .left img{top: 31px;}
+   	.calibar-dashboard-log-in .right{width: 82%;height: auto;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .left-main-box .logo-box img{width: 75%;}
+	.calibarapqr.mobile .left .logo-box img{width: 50%;}
+	.mobile.calibarapqr .right-main-box{width: 89%;}
+	.mobile.calibarapqr .left-main-box{width: 11%;}
+	.mobile.calibarapqr .left-main-box .logo-box img{margin-top: 23px;}
+	.calibarapqr.mobile .left .logo-box img{width: 35%;}
+	.nav-small .calibarapqr .left-main-box{height: 700px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .chart-box .ct-bar{stroke-width: 10px !important;}
+	.calibarapqr .right-main-box .frist-row{padding: 10px 20px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box{margin-top: 0px;}
+	/*.calibarapqr .right-main-box .frist-row .name-box{position: static;text-align: center;}*/
+	.calibarapqr .right-main-box .frist-row .name-box{left: 20px;}
+	.calibarapqr .right-main-box{width: 100%;}
+	.calibarapqr .right-main-box .second-row ul{gap: 12px;}
+	.calibarapqr .right-main-box .second-row .task-bar{gap: 24px;}
+	.calibarapqr .right-main-box .frist-row .add-box .location-box{font-size: 12px;}
+	.calibarapqr .right-main-box .frist-row .add-box .location{width: 30px;height: 30px;padding-top: 5px;}
+	.calibarapqr .right-main-box .frist-row .add-box .location img{width: 52%;}
+	.calibarapqr .right-main-box .frist-row .add-box .icon-box a{width: 30px;height: 30px;padding-top: 2px;}
+	.calibarapqr .right-main-box .frist-row .add-box .icon-box a img{width: 52%;}
+	.calibarapqr .right-main-box .frist-row .add-box .profile-box{padding: 0px 0px 0px 20px;}
+	.calibarapqr .right-main-box .frist-row .add-box .profile-box .profile-img img{width: 76%;}
+	.calibarapqr .right-main-box .frist-row .add-box .profile-box select{font-size: 14px;}
+	.calibarapqr .right-main-box .second-row{padding:14px 20px;}
+
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box p{font-size: 14px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 10px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box p{font-size: 14px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row{flex-direction: column;}
+	.calibarapqr .right-main-box .header h1{font-size: 14px;}
+	.calibarapqr .right-main-box .week-name{top: 136px !important;}
+	.calibarapqr .right-main-box .week-name li{font-size: 14px;}
+	.calibarapqr .right-main-box .day-number{font-size: 14px;}
+	.calibarapqr .right-main-box .day{height: 63.7px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box{width: auto;margin-top: 10px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box{width: auto;margin: 0px;}
+	.calibarapqr .right-main-box .second-row ul li a{font-size: 14px;padding: 8px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box p{font-size: 21px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box .number{font-size: 21px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .chart-box{height: 316px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box .published{font-size: 14px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box p{font-size: 14px;}
+	.calibarapqr .right-main-box .footer{font-size: 14px;padding: 10px 25px;}
+}		
+@media screen and (max-width:639px) {
+	.calibar-dashboard-log-in .left{height: 469px;}
+	.calibar-dashboard-log-in .left .title-line h2{font-size: 29px;}
+	.calibar-dashboard-log-in .right{padding: 25px;}
+	.calibar-dashboard-log-in .right .content h2{font-size: 24px;margin-bottom: 5px;}
+	.calibar-dashboard-log-in .right .content p{font-size: 15px; line-height: 15px;}
+	.calibar-dashboard-log-in .right .content .input-box{margin-top: 15px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 input, .calibar-dashboard-log-in .right .content .input-box .input-1 input{padding: 14px 53px;font-size: 13px;}
+	.calibar-dashboard-log-in .right .content .input-box label{font-size: 15px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-1 .front{top: 43px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 .front{top: 45px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 .hide-eye{top: 44px;}
+	.calibar-dashboard-log-in .right .content .input-box .forget-box .check-box input{margin-top: 2px;}
+	.common-btn{margin: 0 auto;}
+	.calibar-dashboard-log-in .right .content .common-btn a{font-size: 16px;padding: 8px 0px;}
+	.calibar-dashboard-log-in .right .content .input-box .forget-box .check-box{margin: 0 auto;width: 53%;}
+	.calibar-dashboard-log-in .right{width: 90%;}
+	.calibar-dashboard-log-in .right .content .input-box .forget-box .check-box{margin: 0px;width: auto;}
+	.calibar-dashboard-log-in .right .content .input-box .input-1 .front{top: 48px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 .front,.calibar-dashboard-log-in .right .content .input-box .input-2 .hide-eye{top: 47px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .right-main-box .frist-row .name-box{position: static;}
+	.calibarapqr .right-main-box .frist-row .add-box .location-box{text-align: left;}
+	.calibarapqr .right-main-box .frist-row .add-box .location-box{padding: 10px 0px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 9px;}
+	.calibarapqr .right-main-box .week-name{top: 181px !important;}
+	.calibarapqr.mobile .right .week-name{top: 170px !important;}
+	.calibarapqr .right-main-box .frist-row .add-box .location-box{display: none;}
+	.calibarapqr .right-main-box .second-row ul{gap: 8px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box{width: 47%;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box h3{font-size: 19px;}
+	.calibarapqr .right-main-box .frist-row .add-box .icon-box a:not(:last-child){margin-right: 10px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box .box:not(:last-child){margin-right: 36px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box p{margin-right: 0px;font-size: 13px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box input{padding: 11px 0px 11px 15px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box{width: 100%;justify-content: space-between;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box p{font-size: 14px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box{width: auto;justify-content: space-between;}
+	.calibarapqr .left-main-box .width-btn{width: 30px;height: 30px;right: -15PX;}
+	.calibarapqr .left-main-box .width-btn i{font-size: 15px;}
+	.calibarapqr .left-main-box .width-btn{padding-top: 2px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .title h2{font-size: 19px;}
+	.calibarapqr .right-main-box .second-row ul li a{font-size: 12px;}
+
+}
+@media screen and (max-width:479px) {
+
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+
+}
+@media screen and (max-width:470px) {
+
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+
+}
+@media screen and (max-width:390px) {
+	.calibar-dashboard-log-in .right{padding: 15px;}
+	/*.calibar-dashboard-log-in .left{height: 374px;}*/
+	.calibar-dashboard-log-in .left .title-line h2{bottom: 32px;}
+	.calibar-dashboard-log-in .right .content .logo-box a img{width: 55%;}
+	.calibar-dashboard-log-in .right .content h2{font-size: 21px;}
+	.calibar-dashboard-log-in .right .content p{font-size: 13px;}
+	.calibar-dashboard-log-in .right .content .input-box label{font-size: 13px;}
+	.calibar-dashboard-log-in .right .content .forget-box .froget-password{font-size: 13px;}
+	.calibar-dashboard-log-in .right .content .common-btn a{margin-top: 8px;}
+	.calibar-dashboard-log-in .left .title-line h2{font-size: 23px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 input, .calibar-dashboard-log-in .right .content .input-box .input-1 input{margin-bottom: 11px;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .left-main-box{display: none;}
+	.calibarapqr .right-main-box{width: 100%;position: relative;}
+	.calibarapqr .right-main-box .frist-row .name-box .mobile-nav{display: block;position: absolute;top: 23px;right: 20px;z-index: 99;}
+	.calibarapqr .right-main-box .frist-row .name-box .mobile-nav span{display: block;width: 30px;height: 3px;background: #02A786;margin-bottom: 4px;border-radius: 4px;}
+	.nav-small .calibarapqr .left-main-box{display: block;position: absolute;left: 0px;right: 0;width: 100%;overflow: hidden;z-index: 4;}
+	.nav-small .calibarapqr .left-main-box .width-btn{display: none;}
+	.nav-small .calibarapqr .left-main-box .logo-box img{width: auto;}
+	.nav-small .calibarapqr{overflow: hidden;}
+	.nav-small .calibarapqr .right-main-box .frist-row .name-box .mobile-nav span:first-child{transform: rotate(45deg);transition: all .5s ease-in-out;position: absolute;top: 13px;}
+	.nav-small .calibarapqr .right-main-box .frist-row .name-box .mobile-nav span:nth-child(2){opacity: 0;transition: all .5s ease-in-out;}
+	.nav-small .calibarapqr .right-main-box .frist-row .name-box .mobile-nav span:last-child{transform: rotate(315deg);transition: all .5s ease-in-out;position: absolute;top: 13px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box{height: 510px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .title h2{font-size: 14px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .title-box h2{font-size: 18px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .chart-box{height: 273px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box{height: 470px;}
+	.calibarapqr .right-main-box .cla-box .left{display: block;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box{width: 81%;}
+	.calibarapqr .right-main-box .menu-bar ul li{width: 48.9%;}
+	.calibarapqr .right-main-box .second-row .task-bar{margin: 15px 0px;}
+	.day .day-events span{width: 16px !important;height: 16px !important;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .day-number{font-size: 15px;}
+	.footer .claibar-tech, .footer .made-line{width: 34%;}
+	.calibarapqr .right-main-box .second-row ul{gap: 7px;}
+	.calibarapqr .right-main-box .second-row .task-bar{gap: 19px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box{padding: 15px 9px;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box h3{font-size: 16px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box{height: 441px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box{flex-wrap: wrap;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box p{width: 100%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row{flex-direction: column;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .title-box{margin-bottom: 10px;}
+
+}
+@media screen and (max-width:359px) {
+	/*.calibar-dashboard-log-in .left{height: 334px;}*/	
+	.calibar-dashboard-log-in .left .title-line h2{font-size: 21px;}
+	.calibar-dashboard-log-in .right .content .logo-box a img{width: 51%;}
+	.calibar-dashboard-log-in .right .content h2{font-size: 18px;}
+	.calibar-dashboard-log-in .right .content .logo-box{margin-bottom: 5px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 input,.calibar-dashboard-log-in .right .content .input-box .input-1 input{height: 40px;}
+	.calibar-dashboard-log-in .right .content .input-box .input-1 .front{top: 40px;width: 7%;}
+	.calibar-dashboard-log-in .right .content .input-box .input-2 .front, .calibar-dashboard-log-in .right .content .input-box .input-2 .hide-eye {top: 40px;width: 7%;}
+/*-------------------------------------------------------------------------------APQR RESPONSIVE----------------------------------------------------------------------------------------------*/
+	.calibarapqr .right-main-box .menu-bar ul li{width: 100%;margin-bottom: 10px !important;}
+	.calibarapqr .right-main-box .second-row .task-bar .product-box{width: 100%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .left-box{width: 100%;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row{padding: 12px 14px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .graph-box .date-row .right-box input{padding: 11px 0px 11px 3px;}
+	.calibarapqr .right-main-box .second-row .graph-cla-box .cla-box .top-row .info-box p{font-size: 12px;}
+	.calibarapqr .right-main-box .footer{font-size: 12px;}
+	.nav-small .calibarapqr .mobile-nav{top: 33px;}
+	.nav-small .calibarapqr .left-main-box .logo-box img{width: 40%;}
+	.calibarapqr .right-main-box .frist-row .add-box .profile-box .profile-img{margin-right: 0px;}
+}
+
